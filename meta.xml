@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+    <name>Bubble Universe</name>
+    <coder>Movie Vertigo</coder>
+    <version>1.0</version>
+    <release_date>20241110000000</release_date>
+    <short_description>by Movie Vertigo</short_description>
+    <long_description>D-Pad : Move around
+B/A : Zoom in/out
++/- : Speed increase/decrease
+1 : Pause/Unpause
+2 : Toggle trails
+1+2 : Reset view
+
+youtube.com/movievertigo &nbsp; twitter.com/movievertigo</long_description>
+</app>
